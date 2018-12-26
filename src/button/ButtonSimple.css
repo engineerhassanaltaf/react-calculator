@@ -1,0 +1,13 @@
+.buttonSimple {
+    background-color: #00CED1;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    border: 0px;
+    margin: 3px;
+    border-radius: 10px;
+    outline:none;
+    
+    width: 60px;
+    height: 60px;
+}
